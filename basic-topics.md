@@ -1,9 +1,8 @@
-cat > javascript_basics_checklist.md << 'EOF'
 # JavaScript Basic Topics
 
 ## 1. Introduction to JavaScript
 
-- [ ] What is JavaScript?
+- [x] What is JavaScript?
 - [ ] History & uses
 - [ ] How JS runs in browsers
 
@@ -77,4 +76,3 @@ cat > javascript_basics_checklist.md << 'EOF'
 - [ ] Destructuring
 - [ ] Spread/rest operators
 - [ ] Default parameters
-EOF

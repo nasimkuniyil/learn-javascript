@@ -1,3 +1,5 @@
-# Points to learn JavaScript
+# Other topics to learn
 
-- [ ] DTO (Data Transfer Object)
+- [ ] DTO - Data Transfer Object
+- [ ] JIT - Just-In-Time compilation
+- [ ] AOT - Ahead-of-ime
