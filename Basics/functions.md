@@ -2,6 +2,7 @@
 
 A function is a reusable block of code that performs a specific task
 It helps in *modularity, readability, maintainability, and reusability* of code
+
 ---
 
 ## Types of Function
