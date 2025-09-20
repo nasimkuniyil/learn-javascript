@@ -1,6 +1,6 @@
 # JavaScript introduction
 
-## What is JavaScript?
+## ❓ What is JavaScript?
 
 JavaScript is a high-level programming language that adds interactivity to websites. We can use it to controle anything, like form data validation, game logic, dynamic styling  button functionality and more.
 

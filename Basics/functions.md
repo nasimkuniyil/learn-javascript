@@ -20,7 +20,7 @@ function greet() {
 2. Function Expression
 
 ```js
-const great = function (){
+const great = function (){ 
     console.log("hello");
 }
 ```
