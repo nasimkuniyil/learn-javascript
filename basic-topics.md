@@ -30,6 +30,7 @@
 - [ ] Function declarations and expressions
 - [ ] Parameters, return values
 - [ ] Arrow functions
+- [ ] First-class functions
 
 ## 7. Arrays
 
